@@ -71,5 +71,12 @@ $ cd arxiv
 $ pip install poetry
 $ poetry lock
 $ poetry install
+# review/revise .yaml/.py files
+$ poetry run arxiv
+```
 
+### checkin
+```
+$ cd ~/projects/wgong/crewai-arxiv
+$ 
 ```
